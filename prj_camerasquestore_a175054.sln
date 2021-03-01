@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_camerasquestore_a175054", "prj_camerasquestore_a175054\prj_camerasquestore_a175054.vbproj", "{AB441182-4781-414A-8DBA-C3ECA546A18B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_A175054_camerasquestore", "Setup_A175054_camerasquestore\Setup_A175054_camerasquestore.vdproj", "{3876D72B-6B07-431E-BA9E-0A56D57FCE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB441182-4781-414A-8DBA-C3ECA546A18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB441182-4781-414A-8DBA-C3ECA546A18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB441182-4781-414A-8DBA-C3ECA546A18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB441182-4781-414A-8DBA-C3ECA546A18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3876D72B-6B07-431E-BA9E-0A56D57FCE89}.Debug|Any CPU.ActiveCfg = Debug
+		{3876D72B-6B07-431E-BA9E-0A56D57FCE89}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB68CB0-B72A-439A-B8FB-9A6548A423A3}
+	EndGlobalSection
+EndGlobal
